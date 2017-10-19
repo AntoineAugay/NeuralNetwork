@@ -70,9 +70,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\NNManager.cs" />
-    <Compile Include="Model\NNNode.cs" />
-    <Compile Include="Model\NNTrainerOR.cs" />
-    <Compile Include="NNLayer.cs" />
+    <Compile Include="Model\NNNeuron.cs" />
+    <Compile Include="Model\NNTrainer.cs" />
+    <Compile Include="Model\NNLayer.cs" />
+    <Compile Include="Model\NNNeuralNetwork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
